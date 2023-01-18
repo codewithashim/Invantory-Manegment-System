@@ -1,6 +1,6 @@
-Its an invevtory manegment system project 
-    Developed by 
-        Codewithashhim
+Its an invevtory manegment system project
+Developed by
+Codewithashhim
 
-        Login Username : admin
-        Password : password 
+        Login Username : programmerlab
+        Password : programmerlab

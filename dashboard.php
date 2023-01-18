@@ -28,6 +28,12 @@ $connect->close();
 	.ui-datepicker-calendar {
 		display: none;
 	}
+		.copoyrightText {
+		font-size: 12px;
+		text-align: center;
+		margin: 10px;
+
+		}
 </style>
 
 <!-- fullCalendar 2.2.5-->
@@ -107,9 +113,40 @@ $connect->close();
 			<!-- <div class="panel-heading"> <i class="glyphicon glyphicon-calendar"></i> Calendar</div>
 			<div class="panel-body">
 				<div id="calendar"></div>
-			</div> -->	
-			<center>
-			<img src="logo.png" alt="..." width="50%">
+			</div> -->
+			
+			
+		<center>
+			<img src="../stock/image/SPI-Logo.PNG.png" alt="..." width="30%">
+			<div>
+				<h1
+					style="color: #245580;
+					font-size: 25px;
+					"
+				>Stock Point Inventory <br>
+				 For Sylhet Polytechnic Institute || Software Lab </h1>
+					
+				 <p>
+				 Sylhet Polytechnic Institute or SPI is a state supported technical academic institute located in Sylhet, Bangladesh. It was established in 1955 by the then East Pakistan government. It was named as Sylhet Polytechnic Institute in 1959.
+				 </p>
+
+					<div class="">
+						<hr>
+						<p>Developed By: <br>
+							<b>Software Lab, Sylhet Polytechnic Institute </b>
+								<p>
+									Powred by Codewithashim || Programmer Lab 
+								</p>
+						</p>
+					</div>
+					<code
+						class="copoyrightText"
+					>
+					 Vireson 2.1.0
+					</code>
+					
+
+			</div>
 		</center>
 		
 		
