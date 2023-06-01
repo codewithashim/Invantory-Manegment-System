@@ -2,5 +2,6 @@ Its an invevtory manegment system project
 Developed by
 Codewithashhim
 
-        Login Username : programmerlab
-        Password : programmerlab
+        Login Username : admin
+        Password : password
+        DB Name : stock
